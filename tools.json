@@ -1,6 +1,23 @@
 {
-  "Ableton": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/Ableton%20Live.png",
-  "Adobe Audition": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/c19cfe1b87d6110b73b382b89bb8174d5f610039/logos/Adobe%20Audition.svg",
-  "Adobe After Effects": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/c19cfe1b87d6110b73b382b89bb8174d5f610039/logos/Adobe%20After%20Effects.svg",
-  "Adobe Illustrator": "./logos/Adobe_Illustrator.svg"
+  "AbletonLive": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/AbletonLive.png",
+  "AdobeAudition": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/c19cfe1b87d6110b73b382b89bb8174d5f610039/logos/AdobeAudition.svg",
+  "AdobeAE": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/c19cfe1b87d6110b73b382b89bb8174d5f610039/logos/AdobeAE.svg",
+  "AdobeIllustrator": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobeIllustrator.svg",
+  "AdobePhotoshop": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobePhotoshop.svg",
+  "AdobePremiere": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobePremiere.svg",
+  "C4D": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/C4D.png"
+  "IzotopeRX8.png"
+  "Netlify.png"
+  "React.png"
+  "Sass.svg"
+  "amp.svg"
+  "blender.svg"
+  "bootstrap.svg"
+  "c-sharp.svg"
+  "deno.svg"
+  "django.svg"
+  "figma.svg"
+  "firebase.svg"
+  "flutter.svg"
+
 }
