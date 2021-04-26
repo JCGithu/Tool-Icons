@@ -5,19 +5,22 @@
   "AdobeIllustrator": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobeIllustrator.svg",
   "AdobePhotoshop": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobePhotoshop.svg",
   "AdobePremiere": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/baadaa2eaad52e9e11f6beaf2a84eac770c8354d/logos/AdobePremiere.svg",
-  "C4D": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/C4D.png"
-  "IzotopeRX8.png"
-  "Netlify.png"
-  "React.png"
-  "Sass.svg"
-  "amp.svg"
-  "blender.svg"
-  "bootstrap.svg"
-  "c-sharp.svg"
-  "deno.svg"
-  "django.svg"
-  "figma.svg"
-  "firebase.svg"
-  "flutter.svg"
-
+  "C4D": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/C4D.png",
+  "IzotopeRX8": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/IzotopeRX8.png",
+  "Netlify": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/Netlify.png",
+  "React": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/React.png",
+  "Sass": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/Sass.svg",
+  "amp": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/amp.svg",
+  "Blender": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/blender.svg",
+  "bootstrap": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/bootstrap.svg",
+  "c-sharp": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/c-sharp.svg",
+  "deno": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/deno.svg",
+  "django": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/django.svg",
+  "figma": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/figma.svg",
+  "firebase": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/firebase.svg",
+  "flutter": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/flutter.svg",
+  "gatsby": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/gatsby.svg",
+  "node": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/nodejs.svg",
+  "Tailwind": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/tailwindcss.svg",
+  "VSCode": "https://raw.githubusercontent.com/JCGithu/Tool-Icons/main/logos/visual-studio-code.svg"
 }
